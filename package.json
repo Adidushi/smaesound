@@ -1,0 +1,12 @@
+{
+  "name": "Smaebot",
+  "description": "Imports sound from soundboard into voice chat",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
